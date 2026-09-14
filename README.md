@@ -41,6 +41,13 @@ gcc -Wall -Wextra -pedantic standard_deviation.c -lm -o standard_deviation
 
 This repository connects mathematical definitions to executable models. The emphasis is on decomposition, numerical reasoning, and the progression from single-purpose programs toward reusable scientific modules.
 
+## Technical report
+
+- [Read: Executable Mathematics](docs/executable-mathematics.md)
+- [Download the publication PDF](docs/executable-mathematics.pdf)
+
+The report maps claims to repository artifacts, defines an evidence-maturity model, documents limitations, and provides a reproducible development roadmap.
+
 ## Foundation portfolio
 
 This repository is part of a five-repository learning path:
